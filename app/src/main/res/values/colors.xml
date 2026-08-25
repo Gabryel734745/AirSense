@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_light">#E8F5E9</color>
+    <color name="orange_alert">#F9A825</color>
+    <color name="background">#F7F9F7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#263238</color>
+    <color name="text_secondary">#78909C</color>
+    <color name="divider">#DDE5DE</color>
+</resources>
+
+
+

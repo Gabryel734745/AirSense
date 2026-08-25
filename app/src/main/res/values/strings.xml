@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AirSense</string>
+    <string name="welcome_title">Bem-vindo ao AirSense</string>
+    <string name="welcome_subtitle">Monitore o ambiente das suas plantas em tempo real.</string>
+    <string name="temperature_label">Temperatura</string>
+    <string name="humidity_label">Umidade do ar</string>
+    <string name="light_label">Luminosidade</string>
+    <string name="air_label">Qualidade do ar</string>
+    <string name="plant_status_title">Status das plantas</string>
+    <string name="weather_title">Previsão do clima</string>
+</resources>
